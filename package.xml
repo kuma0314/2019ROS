@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>2019ROS</name>
+  <name>2020ROS</name>
   <version>0.0.0</version>
-  <description>The 2019ROS package</description>
+  <description>The 2020ROS package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
